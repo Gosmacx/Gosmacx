@@ -3,5 +3,5 @@
 
 ## Porjects
   - [Chat Application](https://gosmac.netlify.app)
-  - [Music listening with friends](https://gosmacx.netlify.app)
+  - [Music listening real-time with friends](https://gosmacx.netlify.app)
   - [Check out valorant weapons](https://valorant-weapons.netlify.app)
