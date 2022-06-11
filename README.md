@@ -5,3 +5,4 @@
   - [Chat Application](https://gosmac.netlify.app)
   - [Music listening real-time with friends](https://gosmacx.netlify.app)
   - [Check out valorant weapons](https://valorant-weapons.netlify.app)
+  - [Play tic tac toe Game](https://xoxgame.netlify.app)
